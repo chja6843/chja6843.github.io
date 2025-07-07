@@ -39,6 +39,8 @@ Hunter, Lori M., and **Christopher Jackson**. "Older Adult Migration & Disaster 
 **Jackson, Christopher** and Marc Polizzi. “Who Respects Human Rights? Economic Pressure, Civil Society, and International
 Embeddedness.”
 
+Polizzi, Marc and **Christopher Jackson.** "Conflicts over Resource Extraction in Peru: Mining Canon as a Mitigating Factor."
+
 ## Invited Talks
 
 “Synthesize This: Meta‑Analysis as a Dissertation Tool.” Spark Talk: McMaster University,
