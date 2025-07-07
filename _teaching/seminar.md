@@ -1,7 +1,7 @@
 ---
 title: "Attitudinal Shifts to Political Threats"
 collection: teaching
-type: "Graduate seminar"
+type: "Seminar"
 permalink: /teaching/graduate-seminar
 venue: "University of Colorado Boulder, Political Science"
 date: 2024-12-01
