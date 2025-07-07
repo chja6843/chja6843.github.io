@@ -26,4 +26,6 @@ My research addresses questions about political violence, security threats, and 
 Banerjee, Isha, **Christopher Jackson**, and Jaroslav Tir. “Religious‑themed Threat Messaging and Sociopolitical Attitudes
 in India.”
 
+Hunter, Lori M., and **Christopher Jackson**. “Older Adult Migration & Disaster Exposure Across the U.S.”
+
 Polizzi, Marc and **Christopher Jackson.** "Conflicts over Resource Extraction in Peru: Mining Canon as a Mitigating Factor."
