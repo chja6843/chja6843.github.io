@@ -26,15 +26,18 @@ Jackson, Christopher, and Andrew Q. Philips. "Synthesize This: Meta-Analysis as 
 
 ## Papers Under Review
 
-Jackson, Christopher and Andrew Q. Philips. "Unobserved Dynamic Heterogeneity and its Consequences for International Relations Research." *International Interactions*
+**Jackson, Christopher** and Andrew Q. Philips. "Unobserved Dynamic Heterogeneity and its Consequences for International Relations Research." *International Interactions*
 
-Jackson, Christopher. "Conflict Next Door: Civil War Spillover & Individual Preferences for Defense Spending." *Journal of Conflict Resolution*
+**Jackson, Christopher**. "Conflict Next Door: Civil War Spillover & Individual Preferences for Defense Spending." *Journal of Conflict Resolution*
 
 ## Working Papers
 
-Banerjee, Isha, Christopher Jackson, and Jaroslav Tir. "Religious-themed Threat Messaging and Sociopolitical Attitudes in India."
+Banerjee, Isha, **Christopher Jackson**, and Jaroslav Tir. "Religious-themed Threat Messaging and Sociopolitical Attitudes in India."
 
-Jackson, Christopher, and Lori M. Hunter. "Older Adult Migration & Disaster Exposure Across the U.S."
+Hunter, Lori M., and **Christopher Jackson**. "Older Adult Migration & Disaster Exposure Across the U.S."
+
+**Jackson, Christopher** and Marc Polizzi. “Who Respects Human Rights? Economic Pressure, Civil Society, and International
+Embeddedness.”
 
 ## Invited Talks
 
