@@ -29,3 +29,6 @@ in India.”
 Hunter, Lori M., and **Christopher Jackson**. “Older Adult Migration & Disaster Exposure Across the U.S.”
 
 Polizzi, Marc and **Christopher Jackson.** "Conflicts over Resource Extraction in Peru: Mining Canon as a Mitigating Factor."
+
+**Jackson, Christopher** and Marc Polizzi. “Who Respects Human Rights? Economic Pressure, Civil Society, and International
+Embeddedness.”
