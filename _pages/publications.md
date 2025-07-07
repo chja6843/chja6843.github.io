@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My research addresses fundamental questions about political violence, security threats, and methodological innovation in political science. Current publications focus on educational innovation and methodological contributions, with additional work on emotional responses to terrorism and conflict spillover effects under review and in progress.
+My research addresses questions about political violence, security threats, and methodological and pedagogical innovation in political science. Current publications focus on educational innovation and methodological contributions, with additional work on emotional responses to terrorism and conflict spillover effects under review and in progress.
 
 ## Published Articles
 
@@ -23,4 +23,7 @@ My research addresses fundamental questions about political violence, security t
 
 **Jackson, Christopher.** "Conflict Next Door: Civil War Spillover & Individual Preferences for Defense Spending."
 
-Polizzi, Marc and **Christopher Jackson.** "Conflicts over Resource Extraction in Peru:
+Banerjee, Isha, **Christopher Jackson**, and Jaroslav Tir. “Religious‑themed Threat Messaging and Sociopolitical Attitudes
+in India.”
+
+Polizzi, Marc and **Christopher Jackson.** "Conflicts over Resource Extraction in Peru: Mining Canon as a Mitigating Factor."
