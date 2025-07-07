@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate seminar"
 permalink: /teaching/graduate-seminar
 venue: "University of Colorado Boulder, Political Science"
+date: 2024-12-01
 ---
 
 **Role:** Course Developer and Instructor
