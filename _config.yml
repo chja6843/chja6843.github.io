@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Christopher W. Jackson"
 title_separator          : "-"
-name                     : &name "Christopher Jackson"
+name                     : &name "Christopher W. Jackson"
 description              : &description "PhD Candidate in Political Science studying emotional responses to political violence and conflict spillover effects"
 url                      : https://chja6843.github.io
 baseurl                  : ""
