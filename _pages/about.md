@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Christopher W. Jackson"
 excerpt: "PhD Candidate in Political Science"
 author_profile: true
 redirect_from: 
