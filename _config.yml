@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Christopher Jackson"
+title                    : "Christopher W. Jackson"
 title_separator          : "-"
 name                     : &name "Christopher Jackson"
 description              : &description "PhD Candidate in Political Science studying emotional responses to political violence and conflict spillover effects"
