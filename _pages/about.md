@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
+title: "Christopher Jackson"
+excerpt: "PhD Candidate in Political Science"
 author_profile: true
 redirect_from: 
   - /about/
